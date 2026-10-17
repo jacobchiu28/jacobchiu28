@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Jacob Chiu 👋
+# Hey, I'm Jacob Chiu 
 
 ### Math-CS @ UC San Diego | AI/ML • Data Science • Software Engineering • Startups
 
@@ -22,11 +22,11 @@ I'm a Mathematics–Computer Science student at UC San Diego interested in using
 
 ## What I'm Working Toward
 
-- 🤖 Building a strong foundation in machine learning and AI
-- 📊 Working with real-world datasets, prediction, and analytics
-- 🧑‍💻 Becoming stronger in software engineering and full-stack development
-- 🔬 Getting involved in AI/ML research across different domains
-- 💡 Building projects that could grow into real products or startups
+- Building a strong foundation in machine learning and AI
+- Working with real-world datasets, prediction, and analytics
+- Becoming stronger in software engineering and full-stack development
+- Getting involved in AI/ML research across different domains
+- Building projects that could grow into real products or startups
 
 ---
 
