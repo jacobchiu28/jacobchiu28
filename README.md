@@ -14,13 +14,13 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a Mathematics–Computer Science student at UC San Diego interested in using AI, machine learning, data science, and software engineering to solve interesting real-world problems. I enjoy building technical projects, exploring real-world data, and turning ideas into useful products. I'm currently focused on strengthening my skills through research, collaborative projects, and hands-on building.
 
 ---
 
-## 🚀 What I'm Working Toward
+## What I'm Working Toward
 
 - 🤖 Building a strong foundation in machine learning and AI
 - 📊 Working with real-world datasets, prediction, and analytics
@@ -30,7 +30,7 @@ I'm a Mathematics–Computer Science student at UC San Diego interested in using
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -52,13 +52,13 @@ I'm a Mathematics–Computer Science student at UC San Diego interested in using
 
 ---
 
-## 💡 Things I Like Building
+## Things I Like Building
 
 I'm especially interested in projects involving:
 
 ```text
-🏈 Sports Analytics      → player projections, fantasy football, performance modeling
-🎮 Game Analytics        → patch analysis, pick rates, meta shifts, player behavior
-🤖 Machine Learning      → prediction, classification, recommendation systems
-📊 Data Science          → experimentation, visualization, statistical analysis
-🚀 AI Products           → turning models and analysis into tools people can actually use
+Sports Analytics      → player projections, fantasy football, performance modeling
+Game Analytics        → patch analysis, pick rates, meta shifts, player behavior
+Machine Learning      → prediction, classification, recommendation systems
+Data Science          → experimentation, visualization, statistical analysis
+AI Products           → turning models and analysis into tools people can actually use
